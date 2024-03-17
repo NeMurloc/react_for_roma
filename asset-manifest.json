@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/react_for_roma/static/css/main.31d6cfe0.css",
-    "main.js": "/react_for_roma/static/js/main.12a46f17.js",
+    "main.js": "/react_for_roma/static/js/main.478d2e02.js",
     "index.html": "/react_for_roma/index.html",
-    "main.12a46f17.js.map": "/react_for_roma/static/js/main.12a46f17.js.map"
+    "main.478d2e02.js.map": "/react_for_roma/static/js/main.478d2e02.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.12a46f17.js"
+    "static/js/main.478d2e02.js"
   ]
 }
